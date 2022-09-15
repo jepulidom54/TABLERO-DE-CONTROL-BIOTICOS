@@ -1,0 +1,399 @@
+Key,Species,Sum of NUM_IND,Sum of ABUND_ABS
+1,Adelpha basiloides,1,0.17
+2,Adelpha capucinus,1,0.03
+3,Adelpha cytherea,4,0.37
+4,Adelpha iphicleola,1,0.25
+5,Adelpha pollina ,1,0.05
+6,aedon,4,0.248
+7,aenea,4,0.342
+8,ajaja,10,0.093
+9,alba,11,0.284
+10,albescens,3,0.269
+11,albicollis,2,0.191
+12,Allobates niputidea,64,3.107
+13,Alouatta seniculos,6,1
+14,Alouatta seniculus,24,1.975
+15,amazona,1,0.033
+16,Amazona amazonica,2,2
+17,Amazona ochrocephala,2,2
+18,amazonica,2,0.182
+19,americana,2,0.125
+20,anhinga,1,0.019
+21,ani,118,4.151
+22,Anolis auratus,60,9.203
+23,Anolis sp1,1,0.077
+24,Anolis sp2,2,0.133
+25,Anolis sp3,1,0.1
+26,Anthanassa frisia,5,0.26
+27,anthophilus,6,0.559
+28,Anura sp,2,0.4
+29,Aotus griseimembra,4,2
+30,Aotus griseimenbra,7,3.333
+31,Apterostigma pilosum,8,0.15
+32,Aramides cajaneus,1,1
+33,Archaeoprepona demophon,5,1.83
+34,Artibeus jamaicensis,5,1.05
+35,Artibeus lituratus,3,3
+36,Artibeus planirostris,1,0.25
+37,atratus,67,3.543
+38,Attila spadiceus,1,1
+39,aura,39,2.401
+40,auricapillus,5,0.204
+41,auriculata,2,0.028
+42,autumnalis,39,0.547
+43,Azteca ,18,0.3
+44,Basiliscus galeritus,73,6.695
+45,Boana boans,2,2
+46,Boana crepitans,3,3
+47,Boana platanera,11,0.45
+48,Boana pugnax,126,4.607
+49,Bolitoglossa lozanoi,1,0.071
+50,bonariensis,1,0.04
+51,Bothrops asper,2,0.267
+52,Brachymyrmex cavernicola,1,0.17
+53,Brachymyrmex cf. australis ,22,2.15
+54,brasilianus,3,0.05
+55,caerulescens,1,0.125
+56,Caiman crocodilus,50,5.043
+57,cajaneus,2,0.091
+58,Caligo illioneus,31,2.77
+59,Caligo illioneus ,16,1.25
+60,Caligo telamonius,8,2.1
+61,Callicore pitheas,18,1.26
+62,Caluromys lanatus,1,1
+63,Camptostoma obsoletum,1,1
+64,Campylorhynchus griseus,7,7
+65,canadensis,14,0.48
+66,candei,4,0.16
+67,Canthon (Canthon) gr. Lituratus,12,1.6
+68,Canthon gr. politus,76,5.84
+69,Canthon juvencus,462,11.30001
+70,Canthon septemmaculatus,30,4.80001
+71,Cantorchilus leucotis,1,1
+72,Carollia castanea,26,10.529
+73,Carollia perspicillata,142,48.98
+74,Castilia eranites,2,0.4
+75,cayana,2,0.1
+76,cayanensis,31,2.223
+77,cayennensis,13,1.633
+78,Cebus versicolor versicolor,143,11.628
+79,cela,8,0.18
+80,Cephalotes atratus,8,2.5
+81,Cerdocyon thous,106,10.9
+82,Cf.Eunica,1,0.09
+83,chavaria,10,0.315
+84,cheriway,2,0.1
+85,Chiasmocleis panamensis,3,0.147
+86,chilensis,8,0.113
+87,chimachima,71,5.506
+88,Chiroderma salvini,1,0.1
+89,Chironius spixii,1,0.1
+90,cinereum,10,0.708
+91,cinnamomeus,3,0.071
+92,Cissia pompilia,1,0.08
+93,citrea,2,0.133
+94,Clelia clelia,6,0.533
+95,Cnemidophorus lemniscatus,57,7.175
+96,cocoi,8,0.759
+97,coerulescens,12,0.35
+98,Colinus cristatus,1,1
+99,Colobura dirce,19,2.58
+100,columbiana,40,1.739
+101,Columbina talpacoti,1,1
+102,concinna,1,0.048
+103,Conocephalus cinereus,5,0.65
+104,conspicillatus,12,0.396
+105,Coprophanaeus corythus,19,1.46006
+106,Coprophanaeus gamezi,2,0.61
+107,Corallus ruschenbergerii,1,0.071
+108,Cormura brevirostris,1,1
+109,Craugastor raniformis,28,1.135
+110,Crematogaster brasiliensis,38,0.97
+111,Crematogaster carinata,114,3.01
+112,Crematogaster distans,6,0.75
+113,Crematogaster flavosensitiva,11,0.29
+114,Crematogaster longispina,990,34.47
+115,Crematogaster muelleri,31,0.84
+116,cristatus,13,0.36
+117,Crotophaga ani,3,3
+118,Crotophaga major,2,2
+119,Crotophaga sulcirostris,1,1
+120,Crypturellus soui,1,1
+121,Cuniculus paca,63,2.384
+122,Cyphomyrmex hamulatus,8,0.18
+123,Dasyprocta punctata,378,11.339
+124,Dasypterus ega,2,2
+125,Dasypus novemcinctus,64,5.425
+126,Deltochilum (Hybomidium) aff. orbignyi,1,0.00001
+127,Dendrobates truncatus,16,0.619
+128,Dendrocygna autumnalis,1,1
+129,Dendrophidium bivittatus,1,0.05
+130,Dendroplex picus,1,1
+131,Dendropsophus microcephalus,618,25.349
+132,Dichotomius agenor,93,17.71004
+133,Didelphis marupialis,83,5.017
+134,dimidiatus,11,0.94
+135,Discothyrea ,1,0.01
+136,Dolichoderus bispinosus,323,21.23
+137,dominicensis,1,0.014
+138,Dryadula phaetusa,1,0.2
+139,Dryas iulia,1,0.2
+140,Dryocopus lineatus,1,1
+141,Dyscinetus dubius,1,1
+142,Ectatomma ruidum,218,29.68
+143,Ectatomma tuberculatum,60,12.66
+144,Eira barbara,19,1.773
+145,Elaenia chiriquensis,1,1
+146,Elaenia flavogaster,2,2
+147,elatus,2,0.083
+148,Eneoptera surinamensis ,5,0.65
+149,Engystomops pustulosus,134,10.482
+150,episcopus,16,0.797
+151,Eppia truncatipennis,2,2
+152,Eptesicus brasiliensis,4,4
+153,Eptesicus furinalis,5,5
+154,Eresia eunice ,1,0.1
+155,Eumops glaucinus,9,9
+156,Euphonia laniirostris,1,1
+157,Eupsittula pertinax,1,1
+158,fasciatoventris,1,0.018
+159,flaveola,8,0.465
+160,flavogaster,14,0.5
+161,Formicivora grisea,1,1
+162,Forpus conspicillatus,1,1
+163,funerea,2,0.134
+164,Galictis vittata,9,0.118
+165,gilvus,5,0.112
+166,Glossophaga soricina,3,1.417
+167,Glyphorynchus spirurus,1,1
+168,Gonatodes albogularis,130,14.654
+169,grisea,4,0.182
+170,griseus,72,4.736
+171,Hamadryas feronia,11,2.54
+172,Heliconius erato,8,1.11
+173,Heliconius hecale,3,0.3
+174,Heliconius ismenius ,1,0.1
+175,Heliconius melpomene,1,0.09
+176,Heliconius sara ,6,0.55
+177,Helicops danieli,1,0.048
+178,Heliopetes arsalte ,4,0.26
+179,Heraclides thoas,2,0.2
+180,Hermeuptychia hermes,3,0.76
+181,Herpetotheres cachinnans,2,2
+182,hirsutus,9,0.743
+183,Historis odius,9,1.65
+184,Holcosus festivus,6,0.654
+185,Hoplophyga liturata,9,2
+186,Hyalinobatrachium fleischmanni,1,1
+187,Hydrochaerus isthmius,1,0.5
+188,Hydrochoerus isthmius,12,5.398
+189,Hylomyrma blandiens,11,1.06
+190,Hypnelus ruficollis,1,1
+191,ibis,53,0.934
+192,icterocephalus,32,0.734
+193,Icterus nigrogularis,1,1
+194,Iguana iguana,43,4.956
+195,inda,3,0.158
+196,infuscatus,14,0.229
+197,jacana,104,1.233
+198,jacarina,1,0.059
+199,jugularis,36,1.31
+200,julie,3,0.45
+201,Junonia coenia,8,0.38
+202,Junonia evarete,1,1
+203,Kinosternon scorpioides,7,0.501
+204,Labidus coecus,560,9.08
+205,laniirostris,22,0.91
+206,Lasiurus blossevillii,6,6
+207,Legatus leucophaius,1,1
+208,Leopardus pardalis,22,2.664
+209,Leptodactylus fragilis,4,4
+210,Leptodactylus fuscus,121,11.217
+211,Leptodactylus insularum,64,3.818
+212,Leptodactylus savagei,7,0.302
+213,Leptodeira annulata,2,0.417
+214,Leptotila verreauxi,1,1
+215,leucocephala,4,0.086
+216,leucophaius,2,0.087
+217,leucopus,9,0.618
+218,leucotis,9,0.265
+219,lineatum,3,0.137
+220,lineatus,5,0.441
+221,Lithobates vaillanti,12,0.633
+222,Lontra longicaudis,6,2.158
+223,Loxopholis rugiceps,3,0.313
+224,maculatus,4,0.096
+225,magnirostris,32,3.766
+226,major,117,4.607
+227,manacus,11,1.316
+228,Marisora falconensis,21,3.364
+229,martinica,3,0.175
+230,maximus,3,0.159
+231,Mayaponera constricta,18,0.52
+232,Mazama sp,3,1.09
+233,Mechanitis polymnia,11,2.61
+234,Megalomyrmex leoninus,15,4.69
+235,Megalomyrmex silvestrii,1,0.04
+236,Megarynchus pitangua,2,2
+237,Megascops choliba,1,1
+238,melancholicus,23,1.487
+239,Micronycteris sp.,1,1
+240,Milvago chimachima,4,4
+241,minuta,2,0.059
+242,Molossus bondae,15,15
+243,Molossus molossus,56,23.365
+244,Molossus pretiosus,3,0.65
+245,Momotus subrufescens,1,1
+246,Morpho helenor,3,0.56
+247,murina,2,0.166
+248,Mycocepurus smithii,3,0.06
+249,mycteria,2,0.042
+250,Myiopagis gaimardii,1,1
+251,Myiozetetes cayanensis,1,1
+252,Myotis keaysi,6,6
+253,Myotis riparius,1,1
+254,Myrmecophaga tridactyla,35,2.334
+255,naevia,1,0.033
+256,Neoconocephalus affinis,22,22
+257,Neoconocephalus affinis ,4,0.52
+258,Nica flavilla,16,0.92
+259,nigriceps,4,0.525
+260,nigricollis,5,0.229
+261,nigrogularis,5,0.317
+262,Noctilio albiventris,11,11
+263,Noctilio leporinus,3,3
+264,Notosciurus granatensis,147,12.039
+265,noveboracensis,1,0.067
+266,Nyctibius griseus,1,1
+267,Nyctidromus albicollis,1,1
+268,obsoletum,3,0.065
+269,ochrocephala,7,0.252
+270,Odontomachus haematodus,41,7.15001
+271,Odontomachus mayi,2,0.12
+272,Onthophagus marginicolis,35,2.63005
+273,Opsiphanes cassina,51,6.88
+274,Opsiphanes tamarindi,3,0.27
+275,Ortalis columbiana,2,2
+276,Oxybelis aeneus,6,0.497
+277,Pachycondyla harpax,72,11.4
+278,palmarum,13,0.624
+279,Panthera onca,2,1.01
+280,Panthiades bitias,1,0.2
+281,Paratrechina longicornis,2,0.17001
+282,Pareuptychia ocirrhoe,20,3.19
+283,Patagioenas cayennensis,3,3
+284,Pecari tajacu,14,1.498
+285,pertinax,82,1.055
+286,petechia,3,0.131
+287,Phanaeus (Notiophanaeus)gr. chalchomelas,1,0.1
+288,philadelphia,1,0.067
+289,Phyllomedusa venusta,2,0.086
+290,Phyllophaga obsoleta,1,1
+291,Phylloptera dimidiata,2,2
+292,Phyllostomus discolor,6,1.967
+293,picus,23,1.094
+294,pitangua,1,0.048
+295,Pitangus sulphuratus,6,6
+296,Platyrrhinus helleri,1,1
+297,Platythyrea ,1,0.06
+298,Pleurodema brachyops,23,2.464
+299,plumbea,2,0.553
+300,Poecilotriccus sylvia,1,1
+301,Pristimantis taeniatus,1,1
+302,Procyon cancrivorus,43,1.111
+303,Proechimys sp ,12,0.13
+304,Pseudoboa neuwiedii,3,0.667
+305,Pseudopaludicola pusilla,1,0.045
+306,Pteroglossus torquatus,1,1
+307,Pulsatrix perspicillata,1,1
+308,Puma concolor,3,1.032
+309,Puma yagouaroundi,10,1.309
+310,punctigula,4,0.135
+311,Pyrgus orcus,1,0.05
+312,Rasopone arhuaca,1,0.09
+313,Relictivomer pearsei,17,0.658
+314,Rhinchonycteris naso,2,2
+315,Rhinella horribilis,1,1
+316,Rhinella humboldti,16,1.869
+317,Rhinella marina,62,2.828
+318,Rhinoclemmys melanosterna,6,0.67
+319,Rogeria blanda,6,0.06
+320,rubinus,3,0.107
+321,rubricapillus,22,0.869
+322,ruficauda,3,0.162
+323,ruficollis,3,0.091
+324,Rupornis magnirostris,5,5
+325,rustica,20,0.385
+326,Saccopteryx bilineata,11,11
+327,Saccopteryx leptura,5,5
+328,Sakesphorus canadensis,1,1
+329,Saltator coerulescens,1,1
+330,Saltator striatipectus,3,3
+331,saucerottei,3,0.125
+332,Scarthyla vigilans,36,1
+333,Scinax rostratus,33,4.248
+334,Scinax ruber,180,8.259
+335,Sericomyrmex amabilis,40,2.73
+336,Siderone galanthis,1,0.17
+337,Sigmodon hirsutus,15,1
+338,Sigmodon hirsutus cf,6,0.785
+339,similis,5,0.066
+340,simplex,17,0.155
+341,sociabilis,4,0.086
+342,Solenopsis ,118,3.12
+343,Solenopsis cf. geminata ,722,19.83
+344,Solenopsis geminata,166,11.16
+345,solitaria,1,0.019
+346,soui,4,0.716
+347,sparverius,2,0.083
+348,Spilotes pullatus,3,0.543
+349,spirurus,1,0.1
+350,striata,10,0.25
+351,striatipectus,1,0.043
+352,Strumigenys cf. cosmostela,49,1.79
+353,Strumigenys cf. hyphata,3,0.09
+354,Strumigenys cf. interfectiva,2,0.33
+355,Strumigenys denticulata,43,0.3
+356,Strumigenys eggersi,2,0.15
+357,Strumigenys elongata,6,0.22
+358,Strumigenys marginiventris,14,0.42
+359,Strumigenys perparva,1,0.05
+360,Strumigenys trinidadensis,1,0.07
+361,Sturnira ludovici cf,1,1
+362,Sturnira sp.,1,1
+363,subrufescens,9,1.399
+364,sulphuratus,44,3.578
+365,sulphurescens,1,0.067
+366,superciliaris,3,0.065
+367,susurrans,1,0.1
+368,sylvia,6,0.274
+369,Synallaxis candei,1,1
+370,talpacoti,59,1.69
+371,Tamandua mexicana,28,1.978
+372,tapera,2,0.08
+373,Tapera naevia,1,1
+374,Taygetis laches,43,6.58
+375,Temenis laothoe,1,0.2
+376,Thamnodynastes gambotensis,30,3.647
+377,Thraupis episcopus,2,2
+378,Thraupis palmarum,1,1
+379,thula,4,0.037
+380,Tithorea harmonia,1,0.2
+381,Todirostrum cinereum,1,1
+382,Tolmomyias sulphurescens,1,1
+383,torquata,3,0.042
+384,torquatus,4,0.131
+385,Trachemys callirostris,3,0.313
+386,Trachycephalus typhonius,13,0.612
+387,Troglodytes aedon,2,2
+388,Tupinambis teguixin,27,3.314
+389,Tyrannulus elatus,1,1
+390,Tyrannus melancholicus,1,1
+391,Urbanus simplicius,3,0.38
+392,Vanellus chilensis,1,1
+393,verreauxi,40,2.222
+394,Viadana brunneri,2,2
+395,viridis,1,0.018
+396,Wasmannia auropunctata,26,0.28
+397,Zaretis ellops,2,0.14
+398,zonatus,2,0.087
